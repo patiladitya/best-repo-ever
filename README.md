@@ -1,2 +1,3 @@
 # best-repo-ever
-created branch myfeaturebranch - change by new-branch-2
+created branch myfeaturebranch - branch 1 edited this change by new-branch-2
+
